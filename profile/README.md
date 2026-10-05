@@ -16,6 +16,6 @@ Bees is a desktop app for Mac, Windows and Linux. You describe an outcome, Bees 
 It works with Claude Code, Codex, hosted models or a local model, and reaches outside tools through MCP servers.
 
 - [bees-desktop](https://github.com/Bees-bot/bees-desktop): the app itself. Free and open source under MIT or Apache 2.0.
-- [bees-apps](https://github.com/Bees-bot/bees-apps): ready-made app packages you can install from inside Bees.
+- [bees-apps](https://github.com/Bees-bot/bees-apps): ready-made app packages for the Apps screen, which is not switched on in the app yet.
 
 Found a security issue? Please report it privately through [GitHub security advisories](https://github.com/Bees-bot/bees-desktop/security/advisories/new) instead of opening an issue.
